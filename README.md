@@ -9,9 +9,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manugrolleau48@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kiriiaq&style=for-the-badge&color=blueviolet)](https://github.com/Kiriiaq)
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building automation tools that save hours;Python+%E2%80%A2+VBA+%E2%80%A2+CustomTkinter+%E2%80%A2+OpenCV;Complex challenges solved step by step+%F0%9F%9A%B6)](https://github.com/Kiriiaq)
-
 </div>
 
 ---
