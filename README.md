@@ -9,6 +9,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manugrolleau48@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kiriiaq&style=for-the-badge&color=blueviolet)](https://github.com/Kiriiaq)
 
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building automation tools that save hours;Python+%E2%80%A2+VBA+%E2%80%A2+CustomTkinter+%E2%80%A2+OpenCV;Complex challenges solved step by step+%F0%9F%9A%B6)](https://github.com/Kiriiaq)
+
 </div>
 
 ---
@@ -23,7 +26,7 @@ specialization: Nuclear Control Room Systems (EPR2, Sizewell C)
 
 side_projects:
   description: Building automation tools that save hours. Complex challenges solved step by step.
-  tools_created: 28+ internal tools, 6 open source projects
+  tools_created: 28+ internal tools, 8 open source projects
   technologies: [CustomTkinter, OpenCV, dlib, Node.js, Angular]
 
 life_philosophy: "Complex challenges are solved step by step"
@@ -66,8 +69,8 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 [![PhotoOrganizer](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=PhotoOrganizer&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/PhotoOrganizer)
 [![AutoBook](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=AutoBook&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/AutoBook)
 [![Shutterstock-AI-Metadata-Generator](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=Shutterstock-AI-Metadata-Generator&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/Shutterstock-AI-Metadata-Generator)
-[![CodeExtract](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=CodeExtract&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/CodeExtract)
-[![FileManager](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=FileManager&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/FileManager)
+[![CodeExtractPro](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=CodeExtractPro&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/CodeExtractPro)
+[![FileManagerPro](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=FileManagerPro&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/FileManagerPro)
 
 </div>
 
@@ -75,12 +78,14 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 | Project | Description | Tech | Status |
 |:--------|:------------|:-----|:------:|
-| [**MorphoLapse**](https://github.com/Kiriiaq/MorphoLapse) | Professional facial morphing video generator | Python, dlib, OpenCV | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
-| [**PhotoOrganizer**](https://github.com/Kiriiaq/PhotoOrganizer) | Automatic photo sorting with EXIF metadata extraction | Python, ExifRead, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**AutoBook**](https://github.com/Kiriiaq/AutoBook) | PDF photo album generator from Polarsteps data | Python, ReportLab, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**Shutterstock-AI-Metadata-Generator**](https://github.com/Kiriiaq/Shutterstock-AI-Metadata-Generator) | AI-powered stock photo metadata generator using local Ollama models | Python, Ollama, LLaMA Vision | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**CodeExtract**](https://github.com/Kiriiaq/CodeExtract) | Professional VBA/Python code extraction and analysis suite | Python, oletools, pywin32 | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**FileManager**](https://github.com/Kiriiaq/FileManager) | Professional file organization and management tool | Python, pandas, openpyxl | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**MorphoLapse**](https://github.com/Kiriiaq/MorphoLapse) | Professional facial morphing video generator with 68-point detection | Python, dlib, OpenCV | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
+| [**PhotoOrganizer**](https://github.com/Kiriiaq/PhotoOrganizer) | Smart photo organizer with EXIF extraction - 45 formats supported | Python, ExifRead, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**AutoBook**](https://github.com/Kiriiaq/AutoBook) | Professional PDF photo album generator from Polarsteps travel data | Python, ReportLab, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**Shutterstock-AI-Metadata-Generator**](https://github.com/Kiriiaq/Shutterstock-AI-Metadata-Generator) | AI-powered stock photo metadata generator using local Ollama vision models | Python, Ollama, LLaMA Vision | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**CodeExtractPro**](https://github.com/Kiriiaq/CodeExtractPro) | Professional VBA/Python code extraction and analysis suite - 139 tests | Python, oletools, pywin32 | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**FileManagerPro**](https://github.com/Kiriiaq/FileManagerPro) | Professional file organization tool with smart analysis - 149 tests | Python, pandas, openpyxl | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**ExcelToolsPro**](https://github.com/Kiriiaq/ExcelToolsPro) | Complete Excel automation suite with 8 modules - 149 tests | Python, pandas, openpyxl | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**WordToolsSuite**](https://github.com/Kiriiaq/WordToolsSuite) | Professional Word document processing suite with 9 modules | Python, python-docx, PyMuPDF | ![Stable](https://img.shields.io/badge/-Stable-blue) |
 
 ---
 
