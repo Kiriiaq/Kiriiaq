@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emmanuel%20Grolleau&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I&C%20Engineer%20%7C%20Open%20Source%20Creator&descAlignY=52&descSize=18"/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-grolleau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-grolleau-edvance)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kiriiaq)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manugrolleau48@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kiriiaq&style=for-the-badge&color=blueviolet)](https://github.com/Kiriiaq)
@@ -21,13 +21,17 @@
 ```yaml
 name: Emmanuel Grolleau
 located_in: France
-current_role: I&C Engineer @ Edvance (EDF Group)
-specialization: Nuclear Control Room Systems (EPR2, Sizewell C)
+current_role: Nuclear I&C Engineer @ Edvance (EDF Group)
+specialization: Control Room Systems (EPR, Sizewell C, Flamanville 3)
 
 side_projects:
-  description: Building automation tools that save hours. Complex challenges solved step by step.
-  tools_created: 28+ internal tools, 8 open source projects
-  technologies: [CustomTkinter, OpenCV, dlib, Node.js, Angular]
+  description: >
+    Not a full-time developer — an engineer who codes.
+    Desktop tools built to the same standard as my day job:
+    written spec, reference datasets, automated tests, real docs.
+  tools_created: ~30 internal tools, 5 public projects
+  everything_runs: offline — no cloud, no telemetry, no account
+  technologies: [Python, VBA, CustomTkinter, OpenCV, local LLMs]
 
 life_philosophy: "Complex challenges are solved step by step"
 fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
@@ -51,11 +55,11 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 ### Frameworks & Libraries
 
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-333333?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/dlib-333333?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express.js&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-333333?style=for-the-badge&logo=python&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-333333?style=for-the-badge&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-333333?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-333333?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-333333?style=for-the-badge&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-333333?style=for-the-badge&logo=pandas&logoColor=white) ![openpyxl](https://img.shields.io/badge/openpyxl-333333?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) ![python--docx](https://img.shields.io/badge/python--docx-333333?style=for-the-badge&logo=microsoftword&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-333333?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=white) ![dlib](https://img.shields.io/badge/dlib-333333?style=for-the-badge&logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logo=ollama&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-333333?style=for-the-badge&logo=python&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-333333?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### Tools & Databases
 
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white) ![PyInstaller](https://img.shields.io/badge/PyInstaller-333333?style=for-the-badge&logo=pyinstaller&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=vscode&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white) ![PyInstaller](https://img.shields.io/badge/PyInstaller-333333?style=for-the-badge&logo=pyinstaller&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-333333?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-333333?style=for-the-badge&logo=ruff&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=vscode&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -65,27 +69,25 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 <div align="center">
 
-[![MorphoLapse](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=MorphoLapse&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/MorphoLapse)
+[![StockMeta](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=StockMeta&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/StockMeta)
 [![PhotoOrganizer](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=PhotoOrganizer&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/PhotoOrganizer)
+[![PDF-Tools](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=PDF-Tools&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/PDF-Tools)
+[![MorphoLapse](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=MorphoLapse&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/MorphoLapse)
 [![AutoBook](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=AutoBook&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/AutoBook)
-[![Shutterstock-AI-Metadata-Generator](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=Shutterstock-AI-Metadata-Generator&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/Shutterstock-AI-Metadata-Generator)
-[![CodeExtract](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=CodeExtract&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/CodeExtract)
-[![FileManager](https://github-readme-stats.vercel.app/api/pin/?username=Kiriiaq&repo=FileManager&theme=tokyonight&hide_border=true)](https://github.com/Kiriiaq/FileManager)
 
 </div>
 
 ### Project Overview
 
-| Project | Description | Tech | Status |
-|:--------|:------------|:-----|:------:|
-| [**MorphoLapse**](https://github.com/Kiriiaq/MorphoLapse) | Professional facial morphing video generator with 68-point detection | Python, dlib, OpenCV | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
-| [**PhotoOrganizer**](https://github.com/Kiriiaq/PhotoOrganizer) | Smart photo organizer with EXIF extraction - 45 formats supported | Python, ExifRead, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**AutoBook**](https://github.com/Kiriiaq/AutoBook) | Professional PDF photo album generator from Polarsteps travel data | Python, ReportLab, Pillow | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**Shutterstock-AI-Metadata-Generator**](https://github.com/Kiriiaq/Shutterstock-AI-Metadata-Generator) | AI-powered stock photo metadata generator using local Ollama vision models | Python, Ollama, LLaMA Vision | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**CodeExtract**](https://github.com/Kiriiaq/CodeExtract) | Professional VBA/Python code extraction and analysis suite - 139 tests | Python, oletools, pywin32 | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**FileManager**](https://github.com/Kiriiaq/FileManager) | Professional file organization tool with smart analysis - 149 tests | Python, pandas, openpyxl | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**Excel-Tool-Pro**](https://github.com/Kiriiaq/Excel-Tool-Pro) | Complete Excel automation suite with 8 modules - 149 tests | Python, pandas, openpyxl | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| [**Word-Tools**](https://github.com/Kiriiaq/Word-Tools) | Professional Word document processing suite with 9 modules | Python, python-docx, PyMuPDF | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| Project | What it does | Engineering | Status |
+|:--------|:-------------|:------------|:------:|
+| [**StockMeta**](https://github.com/Kiriiaq/StockMeta) | Adobe Stock & Shutterstock metadata, generated on your machine — AI optional | 157 tests · CI · qualification dossier | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
+| [**PhotoOrganizer**](https://github.com/Kiriiaq/PhotoOrganizer) | Sorts thousands of photos by date, camera and GPS — 45 formats, full rollback | 264 tests · CI · Apache-2.0 | ![Active](https://img.shields.io/badge/-Active-brightgreen) |
+| [**PDF-Tools**](https://github.com/Kiriiaq/PDF-Tools) | 60+ PDF operations: merge, split, OCR, convert, extract review comments to Excel | Batch-first · MIT | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**MorphoLapse**](https://github.com/Kiriiaq/MorphoLapse) | Turns a series of portraits into a morphing time-lapse video | dlib landmarks · Delaunay · FFmpeg | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+| [**AutoBook**](https://github.com/Kiriiaq/AutoBook) | Printable PDF photo albums from travel data | 6 languages · print marks | ![Stable](https://img.shields.io/badge/-Stable-blue) |
+
+> Everything runs **offline** — no cloud, no telemetry, no account required.
 
 ---
 
@@ -119,10 +121,10 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 ## What I'm Currently Working On
 
-- Expanding **MorphoLapse** with new features
-- Learning **Industrial AI**, **Industry 4.0**, **GPU Acceleration**
-- Looking to collaborate on **Python automation tools**
-- Ask me about **Python automation**, **VBA optimization**, or **Walked 1,500 km across Japan**
+- Shipping **StockMeta** and **PhotoOrganizer** as maintained desktop products
+- Exploring **on-device AI** — vision models that never send a file to the cloud
+- Applying **industrial tool-qualification practices** to small software: reference datasets, traceable tests
+- Ask me about **nuclear I&C**, **Python automation**, **VBA at scale**, or **walking 1,500 km across Japan**
 
 ---
 
@@ -130,7 +132,7 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Grolleau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-grolleau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Grolleau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-grolleau-edvance)
 [![Email](https://img.shields.io/badge/Email-manugrolleau48%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manugrolleau48@gmail.com)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kiriiaq)
 
