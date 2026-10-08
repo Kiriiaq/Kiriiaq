@@ -10,7 +10,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Kiriiaq&style=for-the-badge&color=blueviolet)](https://github.com/Kiriiaq)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+automation+tools+that+save+hours;Python+%E2%80%A2+VBA+%E2%80%A2+CustomTkinter+%E2%80%A2+OpenCV;Complex+challenges+solved+step+by+step+%F0%9F%9A%B6)](https://github.com/Kiriiaq)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Nuclear+I%26C+engineer+who+codes;Python+%E2%80%A2+VBA+%E2%80%A2+CustomTkinter+%E2%80%A2+OpenCV;Complex+challenges+solved+step+by+step+%F0%9F%9A%B6)](https://github.com/Kiriiaq)
 
 </div>
 
@@ -21,15 +21,15 @@
 ```yaml
 name: Emmanuel Grolleau
 located_in: France
-current_role: Nuclear I&C Engineer @ Edvance (EDF Group)
-specialization: Control Room Systems (EPR, Sizewell C, Flamanville 3)
+current_role: I&C Engineer · Contract Engineering Leader, Sizewell C @ Edvance (EDF Group)
+specialization: HPC-to-SZC requirement replication · Main Control Room · EPR (Sizewell C, Hinkley Point C, Flamanville 3)
 
 side_projects:
   description: >
     Not a full-time developer — an engineer who codes.
     Desktop tools built to the same standard as my day job:
     written spec, reference datasets, automated tests, real docs.
-  tools_created: ~30 internal tools, 5 public projects
+  public_projects: 5
   everything_runs: offline — no cloud, no telemetry, no account
   technologies: [Python, VBA, CustomTkinter, OpenCV, local LLMs]
 
@@ -45,13 +45,13 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-Expert-217346?style=for-the-badge&logo=vba&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Intermediate-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=vba&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -164,6 +164,7 @@ fun_fact: "Walked 1,500 km across Japan (Shikoku 88 Temples Pilgrimage)"
 
 **Thanks for visiting!**
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-January_2026-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-October_2026-informational?style=flat-square)
 
 </div>
+
